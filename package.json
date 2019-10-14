@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -13,6 +13,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "bootstrap": ">=4.1.2"
   }
 }
